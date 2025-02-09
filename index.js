@@ -1,4 +1,4 @@
-const profileURL = "http://172.20.10.3:8000/profile.html";
+const profileURL = "https://rand-alpha.vercel.app/profile.html";
 
 // Generate the QR Code automatically
 new QRCode(document.getElementById("qrcode"), {
